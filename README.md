@@ -14,7 +14,7 @@ can talk at a time.
 
 4. DiningPhilosophers.java: The main starter 
 
-## The solution is both deadlock and starvation free
+### The solution is both deadlock and starvation free
 
 As we know the philosphers might starve if other philosophers dont let go of the forks, but if they start eating with their hands instead of waiting for other forks to be free they won't starve. So problem solved :D
 
